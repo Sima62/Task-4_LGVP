@@ -1,0 +1,38 @@
+body {
+  margin: 0;
+  background-color: rgb(241, 247, 245);
+}
+.container {
+  text-align: center;
+  margin-top: 20px;
+}
+table {
+  margin: auto;
+}
+input {
+  border: 3px solid gray;
+  border-radius: 5px;
+  font-size: 32px;
+  width: 26rem;
+  height: 39px;
+  margin-top: 5px;
+  margin-bottom: 5px;
+
+  background-color: whitesmoke;
+}
+
+button {
+  font-size: larger;
+  padding: 10px 15px;
+  width: 102px;
+  height: 57px;
+  background-color: rgb(233, 210, 181);
+  border-radius: 10px;
+}
+.container_1 {
+  display: inline-block;
+  text-align: center;
+  padding: 15px 15px;
+  border-radius: 20px;
+  background-color: rgb(146, 155, 155);
+}
